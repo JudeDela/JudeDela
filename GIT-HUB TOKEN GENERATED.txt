@@ -1,0 +1,6 @@
+VAULT: a vault is a tool for securely accessing secrets
+
+
+Git-Hub personal Token Generated:
+
+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
